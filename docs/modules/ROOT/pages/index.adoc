@@ -1,0 +1,3 @@
+= Test Repository 2
+
+Dies ist Inhalt aus dem zweiten Git-Repository.
