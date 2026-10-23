@@ -1,1 +1,15 @@
 
+plugins {
+    id 'java'
+}
+
+group = 'ch.so.docstream'
+version = '1.0'
+
+tasks.register('docstreamTest') {
+    doLast {
+        println 'DOCSTREAM-GRADLE-REPO2-TEST-2026'
+        println 'Dieser Inhalt stammt aus Repository 2.'
+    }
+}
+
